@@ -17,6 +17,6 @@ Thanks for the help from Shen Li and his contributions to this project
 If you have any questions about the project please contact me: 1152543959@qq.com
 
 
-[Le and Mikolov, 2014]  Distributed representations of sentences and documents
+[Le and Mikolov, 2014]  Distributed representations of sentences and documents\n
 [Sun et al, 2015]  Learning word representations by jointly modeling syntagmatic and paradigmatic relations
   
