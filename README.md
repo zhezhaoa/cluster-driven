@@ -26,7 +26,7 @@ Zhe Zhao, Renmin university of China. </br>
 Thanks for the help from Shen Li and his contributions to this project </br>
 If you have any questions about the project please contact me: 1152543959@qq.com
 
-
+## References
 [Le and Mikolov, 2014]  Distributed representations of sentences and documents </br>
 [Sun et al, 2015]  Learning word representations by jointly modeling syntagmatic and paradigmatic relations
   
