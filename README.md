@@ -20,9 +20,10 @@
   (3)
   The third part is about the word analogy tasks. Experimental results show that global information can improve accuracy in semantic questions significantly.
   
-  
-Zhe Zhao, Renmin university of China. 
-Thanks for the help from Shen Li and his contributions to this project 
+</br>
+</br>
+Zhe Zhao, Renmin university of China. </br>
+Thanks for the help from Shen Li and his contributions to this project </br>
 If you have any questions about the project please contact me: 1152543959@qq.com
 
 
