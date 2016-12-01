@@ -1,4 +1,4 @@
-# cluster-driven
+# Cluster-Driven Model for Better Word and Text Embedding
   This is the source code that can reproduce the results reported in the paper 'Cluster-Driven Model for Better Word and Text Embedding', which is accepted by ECAI2016 (http://ebooks.iospress.nl/volumearticle/44747). The publication of the paper is not the end. We will continue updating the code and other contents about the paper in the following months.
   
   
