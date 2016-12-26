@@ -14,8 +14,11 @@
   
   
   (2)
-  Theoretical analysis is provided in this paper to unveil the relationsips among PV-DBOW (a variant in PV), SPPMI matrix of term-document type and our centric model. In fact, their relationships are also noticed in [Sun et al, 2015]'s work. However, we are the first to use the SPPMI matrix to obtain text representations. The experimental results show that our novel co-occurrence matrix can still generate near state-of-the-art results on sentiment classification.
-    
+  Theoretical analysis is provided in this paper to unveil the relationsips among PV-DBOW (a variant in PV), SPPMI matrix of term-document type and our centric model. In fact, their relationships are also noticed in [Sun et al, 2015]'s work. However, we are the first to use the SPPMI matrix to obtain text representations. The experimental results show that our novel co-occurrence matrix can still generate near state-of-the-art results on sentiment classification. After downloading the datasets, run the following:
+  
+    cd svd
+    sudo svd.sh
+    sudo svd_rt2k.sh
     
   (3)
   The third part is about the word analogy tasks. Experimental results show that global information can improve accuracy in semantic questions significantly.
